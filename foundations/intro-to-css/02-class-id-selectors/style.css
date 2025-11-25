@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.impar{
+    background-color: #e19ca7;
+    font-family: Verdana, DejaVu, Sans, sans-serif;
+}
+
+#dos{
+    color: blue;
+    font-size: 36px;
+}
+
+#tres{
+    font-size: 24px;
+}
+
+#cuatro{
+    background-color: #88e788;
+    font-size: 24px;
+    font-weight: bold;
+}
